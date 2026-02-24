@@ -20,9 +20,9 @@ KMIT College, Hyderabad
 Expected Graduation: 2027
 
 ## Projects
-- **Project 1:** A web application that allows users to create and manage their to-do lists.
+- **Project 1:** A web application that allows hospital management.
 - **Project 2:** An e-commerce website built with React and Node.js.
 
 ## Contact
-Feel free to reach out to me at [myemail@example.com] for any opportunities or collaborations.  
-Connect with me on [LinkedIn](https://linkedin.com/in/myprofile).
+Feel free to reach out to me  
+Connect with me on [LinkedIn] (https://www.linkedin.com/in/rathodchantiprasad-/ ).
